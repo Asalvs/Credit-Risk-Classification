@@ -18,9 +18,9 @@ Methods used in this analysis include LogisticRegression and RandomOverSampler f
 
 ## Results
 
-### Machine Learning Model 1: Logistic Regression with Original Data
+## Machine Learning Model 1: Logistic Regression with Original Data
 
-#### Description of Model 1 Accuracy, Precision, and Recall scores.
+### Description of Model 1 Accuracy, Precision, and Recall scores.
 
 Accuracy: The overall accuracy of the model is 0.99, indicating that it correctly classifies 99% of the instances.
 Precision:
@@ -31,9 +31,9 @@ Recall:
  - High-risk loans (1): The model has a recall of 0.89, indicating its effectiveness in identifying high-risk loans with some false negatives.
 
 
-### Machine Learning Model 2: Logistic Regression with Resampled Data 
+## Machine Learning Model 2: Logistic Regression with Resampled Data 
 
-#### Description of Model 2 Accuracy, Precision, and Recall scores.
+### Description of Model 2 Accuracy, Precision, and Recall scores.
 Accuracy: The overall accuracy of the model is 0.99, indicating that it correctly classifies 99% of the instances.
 Precision:
  - Healthy loans (0): The model has a precision of 0.99, which means it's excellent at identifying true positives with very few false positives.
